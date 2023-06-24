@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshjha1002.
-- 👀 I’m interested in hacking.
-- 🌱 I’m currently learning 12th.
-- 💞️ I’m looking to collaborate on bca
+- 👀 I’m interested in Web Development, and want to start my career in web development.
+- 🌱 I’m currently Pursuing BCA.
 - 📫 How to reach me ...
 
 <!---
