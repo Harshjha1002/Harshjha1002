@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Harshjha1002.
-- 👀 I’m interested in Web Development, and want to start my career in web development.
+- 👋 Hi, I’m Harshjha.
+- 👀 I’m interested in Frontend  Development, and want to start my career in Frontend development.
 - 🌱 I’m currently Pursuing BCA.
 - 📫 How to reach me ...
 
